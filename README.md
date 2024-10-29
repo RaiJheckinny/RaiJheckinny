@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Sobre min</h2>
+<h3 align="left">🌟 Sobre Mim</h2>
 
 ###
 
