@@ -1,8 +1,8 @@
-<h2 align="left">Olá, eu sou o Rai Jheckinny! 🚀 Desenvolvedor Back-End Java pronto para transformar ideias em código!</h2>
+<h2 align="left">Olá! Eu sou o Rai Jheckinny 👋, prazer em conhecê-los!</h2>
 
 ###
 
-<p align="left">Olá! Meu nome é Rai Jheckinny, e eu moro em Capelinha, MG. Estou animado para compartilhar minhas experiências e aprender mais com vocês!</p>
+<p align="left">Sou um desenvolvedor Back-End Java animado para compartilhar experiências e aprender com todos vocês. Vamos juntos transformar ideias em soluções incríveis e explorar o fascinante mundo da programação!</p>
 
 ###
 
