@@ -6,15 +6,28 @@
 
 ###
 
-<h2 align="left">Sobre</h2>
+<h3 align="left">Sobre min</h2>
 
 ###
 
-<p align="left">Procurando um desenvolvedor back-end que transforma cafés em código? Você encontrou! Desde pequeno, fui cativado pela mágica da tecnologia. Com meu pai, um verdadeiro alquimista de eletrônicos, aprendi que o que parece um monte de fios e circuitos pode, na verdade, se transformar em algo incrível.<br><br>Hoje, sou um desenvolvedor back-end em treinamento, mergulhando no universo do Java na EBAC e mantendo a rotina acadêmica na UNOPAR. Com experiência em Java, Spring, PostgreSQL, MongoDB, SQL e Hibernate, sempre estou em busca de novas aventuras de programação. Atualmente, faço parte de um time voluntário na Pipoca Ágil, onde aperfeiçoo minhas habilidades e compartilho boas risadas (e bugs) com a galera.<br><br>Estou animado para aplicar meu conhecimento em projetos inovadores e criativos. Se você procura alguém que codifique com paixão e um toque de humor, está no repositório certo! Vamos juntos transformar ideias em realidade e, quem sabe, adicionar algumas estrelas ao nosso GitHub! 🌟</p>
+<p align="left">💻 Desenvolvedor Back-End
+Estou em constante aprendizado e aplicação de minhas habilidades no desenvolvimento de soluções inovadoras.
+
+🎓 Educação
+Estudo na EBAC - Escola Britânica de Artes e Criatividade e Tecnologia e na UNOPAR - Universidade Norte do Paraná.
+
+👨‍💻 Experiência Profissional
+Atuando como desenvolvedor back-end na Pipoca Ágil, onde aplico e desenvolvo minhas competências em programação.
+
+🌍 Curiosidade
+Tenho um interesse especial em aprender inglês, buscando sempre aprimorar minhas habilidades de comunicação.
+
+🚶‍♂️ Hobbies
+Gosto de caminhar e passar meu tempo livre lendo "Clean Code" para me tornar um programador melhor.</p>
 
 ###
 
-<h2 align="left">Entre em contato comigo!📫</h2>
+<h3 align="left">Entre em contato comigo!📫</h2>
 
 ###
 
@@ -32,7 +45,7 @@
 
 ###
 
-<h2 align="left">Tecnologia e Ferramentas</h2>
+<h3 align="left">Tecnologia e Ferramentas</h2>
 
 ###
 
@@ -56,7 +69,7 @@
 
 ###
 
-<h2 align="left">Status</h2>
+<h3 align="left">Status</h2>
 
 ###
 
